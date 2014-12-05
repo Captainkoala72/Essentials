@@ -48,6 +48,8 @@ groups:
     permissions:
     - bukkit.broadcast.user
     - -bukkit.command.plugins
+    - essentials.msg
+    - essentials.helpop.receive
 
   g:bukkit_moderator:
     permissions:
